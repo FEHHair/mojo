@@ -1,0 +1,16 @@
+/node_modules/**
+/dist/*
+/src/assets/*
+.husky
+.local
+.DS_Store
+.idea
+.editorconfig
+pnpm-lock.yaml
+
+*.log
+*.md
+*.svg
+*.png
+*.ico
+*ignore
